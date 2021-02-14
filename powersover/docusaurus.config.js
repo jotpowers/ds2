@@ -37,7 +37,7 @@ module.exports = {
           items: [
             {
               label: 'Style Guide',
-              to: 'docs/',
+              to: 'docs/doc1',
             },
           ],
         },
@@ -45,16 +45,8 @@ module.exports = {
           title: 'Community',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
               label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              href: 'https://twitter.com/jotpowers',
             },
           ],
         },
@@ -77,6 +69,7 @@ module.exports = {
       {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
+	  routeBasePath: '/', // doc's only mode? jot
           // Please change this to your repo.
           //editUrl:
            // 'https://github.com/facebook/docusaurus/edit/master/website/',

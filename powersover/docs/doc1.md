@@ -4,6 +4,8 @@ title: Style Guide
 sidebar_label: Style Guide
 ---
 
+## Introduction
+I keep this file around because it's a really convienent reference.
 
 You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
 
