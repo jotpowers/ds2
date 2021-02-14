@@ -4,6 +4,11 @@
 # Production
 /build
 
+#Jot files
+/docs/College-Grads
+/docs/Personal-Growth
+/docs/Hobbies
+
 # Generated files
 .docusaurus
 .cache-loader
