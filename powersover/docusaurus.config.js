@@ -9,6 +9,10 @@ module.exports = {
   organizationName: 'jotpowers', // Usually your GitHub org/user name.
   projectName: 'ds2', // Usually your repo name.
   themeConfig: {
+	// jot
+    googleAdsense: {
+      dataAdClient: "ca-pub-7431564940208130",
+    },
     navbar: {
       title: 'Collected Bric-à-brac',
       logo: {
@@ -80,5 +84,9 @@ module.exports = {
         },
       },
     ],
+  ],
+//jot
+  plugins: [
+    'docusaurus-plugin-google-adsense',
   ],
 };

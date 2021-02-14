@@ -76,6 +76,6 @@ module.exports = {
 	],
 	},
 	],
-    Docusaurus: ['doc1'],
+    Miscellaneous: ['style-guide', 'license'],
   },
 };
