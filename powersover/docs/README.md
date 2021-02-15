@@ -8,10 +8,10 @@ slug: /
 
 Welcome to the new landing page for all of my documentation.  Through the power of technology, things have advanced to the point where it's pretty easy to have something responsive that looks good when you have a user with the design sensabilities of brick.
 
-At a high level it contains:
+I've also decided to create a domain name to start consolidating this information in a way that makes sense.  So, it's now has "Powers Over...":
 
-* [Investing/College Graduate](College-Grads/README.md) advice.
-* [Personal Growth](Personal-Growth/README.md) writing and reviews.  Primarily focused on the things that I listen to/read and think about.
+* [Money](College-Grads/README.md) advice.
+* [Growth](Personal-Growth/README.md) writing and reviews.  Primarily focused on the things that I listen to/read and think about.
 * [Hobbies](Hobbies/README.md) are some of the things I do for fun.  Not on this list is actually doing all of this documentation, which has been way more entertaining that I expected.
 
 ## License

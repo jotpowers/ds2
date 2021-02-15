@@ -14,9 +14,10 @@ module.exports = {
       dataAdClient: "ca-pub-7431564940208130",
     },
     navbar: {
-      title: 'Collected Bric-à-brac',
+      //title: 'Collected Bric-à-brac',
+      title: 'Powers Over ...',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'Logo',
         src: 'img/jp.ico',
       },
       items: [
