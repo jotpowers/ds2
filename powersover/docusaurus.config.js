@@ -25,7 +25,7 @@ module.exports = {
           //to: 'docs/',
           to: '/',
           //activeBasePath: 'docs',
-          label: 'Docs',
+          label: 'Documentation',
           position: 'left',
         },
         {

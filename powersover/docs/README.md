@@ -6,13 +6,13 @@ slug: /
 ---
 ![From a desert run](assets/desert-run-pano.jpg)
 
-Welcome to the new landing page for all of my documentation.  Through the power of technology, things have advanced to the point where it's pretty easy to have something responsive that looks good when you have a user with the design sensabilities of brick.
+Welcome to the new landing page for all of my documentation.  Through the power of technology, things have advanced to the point where it's pretty easy to have something responsive, that looks also good, when you have a writer with the design sensabilities of brick. (That would be me)
 
-I've also decided to create a domain name to start consolidating this information in a way that makes sense.  So, it's now has "Powers Over...":
+I've also decided to create a domain name to start consolidating this information in a way that makes sense.  So, it's now "[We Have] Powers Over...":
 
-* [Money](College-Grads/README.md) advice.
-* [Growth](Personal-Growth/README.md) writing and reviews.  Primarily focused on the things that I listen to/read and think about.
-* [Hobbies](Hobbies/README.md) are some of the things I do for fun.  Not on this list is actually doing all of this documentation, which has been way more entertaining that I expected.
+* [Money.](College-Grads/README.md) (Personal finance) 
+* [Growth.](Personal-Growth/README.md) (How I try to improve)
+* [Hobbies.](Hobbies/README.md) (Things I do for fun)  
 
 ## License
 
