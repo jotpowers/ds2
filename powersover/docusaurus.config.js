@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Collected Bric-à-brac',
+  title: 'Powers Over ...',
   tagline: 'Everything you never wanted to know',
   url: 'https://jotpowers.github.io',
   baseUrl: '/ds2/',
@@ -89,5 +89,5 @@ module.exports = {
 //jot
   plugins: [
     'docusaurus-plugin-google-adsense',
-  ],
+ ],
 };

@@ -39,7 +39,7 @@ module.exports = {
 	],
 	},
 	],
-    "Personal Growth": [ "Personal-Growth/pg-overview",
+    "Personal Growth": [ "Personal-Growth/pg-overview", "Personal-Growth/books", "Personal-Growth/podcasts",
 	{
 	Writing: [
 		"Personal-Growth/decision-making", 
