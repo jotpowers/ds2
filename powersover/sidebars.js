@@ -12,6 +12,7 @@ module.exports = {
 	Saving: [
 		"College-Grads/saving",
 		"College-Grads/emergency",
+		"College-Grads/tvr",
 		"College-Grads/pre-tax",
 		"College-Grads/after-tax",
 		"College-Grads/taxable"
