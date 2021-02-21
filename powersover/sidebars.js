@@ -27,10 +27,17 @@ module.exports = {
 		"College-Grads/wid"	
 	],
 	Other: [
+		{
+		Accounts: [
+			"College-Grads/ira",
+			"College-Grads/401k",
+			"College-Grads/solo",
+		],
+		},	
 		"College-Grads/other",
-		"College-Grads/value",
+		"College-Grads/retirement",
 		"College-Grads/stock-market",
-		"College-Grads/solo",
+		"College-Grads/value",
 		{
 		Schwab: [
 			"College-Grads/schwab-after-tax",
