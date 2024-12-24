@@ -66,7 +66,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Jot Powers. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Jot Powers. Built with Docusaurus and Anger`,
     },
   },
   presets: [
@@ -87,7 +87,7 @@ module.exports = {
     ],
   ],
 //jot
-  plugins: [
-    'docusaurus-plugin-google-adsense',
- ],
+//  plugins: [
+//    'docusaurus-plugin-google-adsense',
+// ],
 };

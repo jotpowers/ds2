@@ -7,6 +7,7 @@ module.exports = {
 		"College-Grads/spending", 
 		"College-Grads/healthcare", 
 		"College-Grads/insurance", 
+		"College-Grads/li-ltc",
 		"College-Grads/speculation"
 	], 
 	Saving: [
@@ -53,9 +54,20 @@ module.exports = {
 		"Personal-Growth/decision-making", 
 		"Personal-Growth/org-structure", 
 		"Personal-Growth/manager", 
+		"Personal-Growth/cdp", 
 		"Personal-Growth/conceit", 
 		"Personal-Growth/networking", 
-		"Personal-Growth/christmas-letter" 
+		"Personal-Growth/christmas-letter",
+		"Personal-Growth/vignettes",
+		"Personal-Growth/normal-accidents",
+		"Personal-Growth/success-vs-right",
+		"Personal-Growth/writing/keystone",
+		{
+		Miscellaneous: [
+			"Personal-Growth/writing/jotism",
+			"Personal-Growth/writing/delegation"
+		],
+		}
 	],
 	Other: [
 		"Personal-Growth/references"
@@ -81,6 +93,9 @@ module.exports = {
 	],
 	Recipes: [
 		"Hobbies/recipes/hawiian"
+	],
+	BJJ: [
+		"Hobbies/jiu-jitsu/bjj"
 	],
 	},
 	],
