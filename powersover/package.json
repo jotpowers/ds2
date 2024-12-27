@@ -12,12 +12,13 @@
     "clear": "docusaurus clear"
   },
   "dependencies": {
-    "@docusaurus/core": "2.0.0-alpha.70",
-    "@docusaurus/preset-classic": "2.0.0-alpha.70",
-    "@mdx-js/react": "^1.6.21",
-    "clsx": "^1.1.1",
-    "react": "^16.8.4",
-    "react-dom": "^16.8.4"
+    "@docusaurus/core": "^3.6.3",
+    "@docusaurus/preset-classic": "^3.6.3",
+    "@mdx-js/react": "^3.0.0",
+    "prism-react-renderer": "^2.1.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "to-fast-properties": "^4.0.0"
   },
   "browserslist": {
     "production": [
@@ -32,6 +33,10 @@
     ]
   },
   "devDependencies": {
-    "docusaurus-plugin-google-adsense": "^0.1.0"
+    "@docusaurus/module-type-aliases": "^3.6.3",
+    "@docusaurus/types": "^3.6.3"
+  },
+  "engines": {
+    "node": ">=18.0"
   }
 }

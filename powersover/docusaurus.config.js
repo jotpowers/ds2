@@ -51,8 +51,8 @@ module.exports = {
           title: 'Community',
           items: [
             {
-              label: 'Twitter',
-              href: 'https://twitter.com/jotpowers',
+              label: 'BlueSky',
+              href: 'https://bsky.app/profile/jotpowers.bsky.social',
             },
           ],
         },

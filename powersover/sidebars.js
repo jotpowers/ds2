@@ -94,7 +94,7 @@ module.exports = {
 	Recipes: [
 		"Hobbies/recipes/hawiian"
 	],
-	BJJ: [
+	"Jiu-Jitsu": [
 		"Hobbies/jiu-jitsu/bjj"
 	],
 	},
