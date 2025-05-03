@@ -6,6 +6,7 @@ module.exports = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/jp.ico',
+  trailingSlash: false,
   organizationName: 'jotpowers', // Usually your GitHub org/user name.
   projectName: 'ds2', // Usually your repo name.
   themeConfig: {
